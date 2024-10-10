@@ -23,4 +23,4 @@ Este proyecto es una aplicación web desarrollada en Flask que permite gestionar
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tuusuario/gestor-turnos.git
+   git clone https://github.com/KLGomez/Sistema-Gestor-de-Turnos.git
