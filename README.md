@@ -4,7 +4,7 @@ Este proyecto es una aplicación web desarrollada en Flask que permite gestionar
 
 ## Características Principales
 
-- **Gestión de Usuarios**: Permite agregar, visualizar y eliminar usuarios.
+- **Gestión de Cliente**: Permite agregar, visualizar y eliminar cliente.
 - **Gestión de Empleados**: Permite agregar, visualizar, actualizar y eliminar empleados.
 - **Gestión de Turnos**: Se pueden asignar turnos a los empleados, visualizar los turnos programados y eliminarlos.
 - **Integración con MySQL**: Toda la información es persistida en una base de datos MySQL.
@@ -15,7 +15,7 @@ Este proyecto es una aplicación web desarrollada en Flask que permite gestionar
 
 - **Python (Flask)**: Framework backend para gestionar las rutas y la lógica del servidor.
 - **Flask-CORS**: Habilita CORS para permitir solicitudes desde diferentes dominios.
-- **MySQL**: Base de datos relacional para almacenar la información de usuarios, empleados y turnos.
+- **MySQL**: Base de datos relacional para almacenar la información de cliente, empleados y turnos.
 - **Bootstrap**: Framework CSS para estilizar la interfaz web.
 - **HTML5 / CSS3 / JavaScript**: Para la creación de la interfaz web.
   
